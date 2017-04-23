@@ -1,0 +1,32 @@
+{
+  "name": "koa-upload-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_app.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "crypto": "0.0.3",
+    "fs": "0.0.1-security",
+    "koa": "^1.1.2",
+    "koa-better-body": "^3.0.2",
+    "koa-router": "^5.4.1",
+    "koa-static": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Char-set/koa-upload"
+  },
+  "keywords": [
+    "koa-upload"
+  ],
+  "author": "xq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Char-set/koa-upload/issues"
+  },
+  "homepage": "https://github.com/Char-set/koa-upload"
+}
